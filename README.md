@@ -11,5 +11,5 @@ Part 2: Create a dynamic React-JS app movie template which will read mp4 links f
 
 
 ## More Info 
-Anon-Web-Scrapper: https://github.com/gebob19/anon-web-scrapper </br>
+Anon-Web-Scrapper: https://github.com/gebob19/anon-web-scrapper (most interesting imo) </br>
 React-JS-Movie-Template: https://github.com/gebob19/react-movie-template
